@@ -299,7 +299,6 @@ header{
         position: relative;
         left: -1.5em;
         width: calc(100% + 1.5em);
-        cursor:pointer;
        /* transition-duration: 1s;
         transition-delay: 1s;
         transition:0.5s linear; */
